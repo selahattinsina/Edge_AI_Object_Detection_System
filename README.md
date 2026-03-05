@@ -1,4 +1,4 @@
-# CV Advanced Assessment - Edge AI Object Detection System
+# Edge AI Object Detection System
 
 A comprehensive computer vision project implementing YOLOv8-based object detection with TensorRT optimization, real-time video processing, and RESTful API services.
 
@@ -236,6 +236,7 @@ See `requirements.txt` for full dependency list:
 
 **Testing:**
 - `pytest`
+
 
 
 
